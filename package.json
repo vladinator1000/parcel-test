@@ -1,0 +1,14 @@
+{
+  "name": "parcel-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "yarn && parcel src/index.html"
+  },
+  "dependencies": {
+    "parcel": "^2.3.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
